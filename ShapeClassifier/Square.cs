@@ -4,5 +4,5 @@ using System.Text;
 
 class Square: Shape
 {
-    public double Side{ get; set; }
+    public int Side { get; set; }
 }

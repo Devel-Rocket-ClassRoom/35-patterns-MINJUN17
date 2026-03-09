@@ -4,5 +4,5 @@ using System.Text;
 
 class Circle : Shape
 {
-    public double Radius { get; set; }
+    public int Radius { get; set; }
 }
